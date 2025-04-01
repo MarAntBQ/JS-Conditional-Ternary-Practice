@@ -4,10 +4,10 @@
   padding: 0;
 }
 
-div {
+#ageMessage {
   height: 50px;
   border: 1px solid black;
   padding: 10px;
   width: 500px;
-  min-height: 10px;
+  min-height: 50px;
 }
