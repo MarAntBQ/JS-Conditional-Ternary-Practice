@@ -12,6 +12,8 @@ This project is a simple JavaScript practice focused on using **ternary operator
 1. The user enters their age in the input field.
 2. By clicking the "Check Age" button, the script evaluates the input using a ternary operator.
 3. A message is displayed indicating whether the user is a minor or an adult.
+![image](https://github.com/user-attachments/assets/5c0b43ec-2275-48c9-9609-11e95fbc749d)
+
 
 ## Learn More
 If you want to learn more about this project and the concept of ternary operators, check out this video in Spanish:  
