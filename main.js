@@ -4,15 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const ageButton = document.getElementById("checkAgeButton");
 
   ageButton.addEventListener("click", () => {
-      const age = parseInt(ageInput.value, 10);
-      if (isNaN(age) || age < 0) {
-          ageOutput.innerHTML = "Please enter a valid age.";
-      } else if (age < 18) {
-          ageOutput.innerHTML = "You are a minor.";
-      } else if (age >= 18 && age < 65) {
-          ageOutput.innerHTML = "You are an adult.";
-      } else {
-          ageOutput.innerHTML = "You are a senior citizen.";
-      }
+      const age = parseInt(ageInput.value);
+      ageOutput.textContent = age < 18 ? "You are a minor." : "You are an adult.";
   });
 });
