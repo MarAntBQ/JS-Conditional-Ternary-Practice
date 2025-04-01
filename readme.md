@@ -5,7 +5,9 @@ This project is a simple JavaScript practice focused on using **ternary operator
 ## Features
 - Input field for the user's age.
 - Button to check the age and display the result.
+![image](https://github.com/user-attachments/assets/87d825c0-2e57-4350-97fc-b678123e8f2a)
 - Dynamic message displayed using JavaScript and DOM manipulation.
+![image](https://github.com/user-attachments/assets/20dd9124-13f9-4c20-acec-d37dbd7d7e67)
 - Example of how to use ternary operators for conditional logic.
 
 ## How It Works
